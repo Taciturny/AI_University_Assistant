@@ -1,0 +1,37 @@
+2025-01-22 12:02:30,674 - src.assistant - ERROR - Error loading data from ./data/dev_data.json: name 'os' is not defined
+2025-01-22 12:02:30,674 - src.assistant - ERROR - Failed to initialize University Assistant: name 'os' is not defined
+2025-01-22 12:03:20,711 - src.assistant - INFO - Successfully loaded data from ./data/dev_data.json
+2025-01-22 12:03:20,730 - src.assistant - INFO - University Assistant initialized successfully
+2025-01-22 12:03:41,503 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-01-22 12:03:41,655 - src.assistant - INFO - Found 12 eligible courses
+2025-01-22 12:03:41,656 - src.assistant - INFO - Successfully ranked 5 courses using Cohere
+2025-01-22 12:05:50,247 - src.assistant - INFO - Successfully loaded data from ./data/dev_data.json
+2025-01-22 12:05:50,249 - src.assistant - INFO - University Assistant initialized successfully
+2025-01-22 12:06:03,365 - src.assistant - WARNING - Student not found: STU1000
+2025-01-22 12:06:26,734 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-01-22 12:06:26,743 - src.assistant - INFO - Found 10 eligible courses
+2025-01-22 12:06:26,744 - src.assistant - INFO - Successfully ranked 5 courses using Cohere
+2025-01-22 12:06:52,932 - src.assistant - WARNING - Student not found: STU0100
+2025-01-22 12:14:35,827 - src.assistant - WARNING - Student not found: STU0100
+2025-01-22 12:31:34,161 - src.assistant - INFO - Successfully loaded data from ./data/dev_data.json
+2025-01-22 12:31:34,165 - src.assistant - INFO - University Assistant initialized successfully
+2025-01-22 12:32:08,521 - src.assistant - WARNING - Student not found: STU0100
+2025-01-22 12:32:47,177 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-01-22 12:32:47,190 - src.assistant - INFO - Found 6 eligible courses
+2025-01-22 12:32:47,190 - src.assistant - INFO - Successfully ranked 5 courses using Cohere
+2025-01-22 13:10:06,527 - src.assistant - INFO - Successfully loaded data from ./data/dev_data.json
+2025-01-22 13:10:06,614 - src.assistant - INFO - University Assistant initialized successfully
+2025-01-22 13:10:17,411 - src.assistant - WARNING - Student not found: STU0041
+2025-01-22 13:10:17,411 - src.assistant - WARNING - No student found for ID: STU0041
+2025-01-22 13:10:44,734 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-01-22 13:10:44,742 - src.assistant - INFO - Found 6 eligible courses
+2025-01-22 13:10:44,742 - src.assistant - INFO - Successfully ranked 5 courses using Cohere
+2025-01-22 13:27:01,440 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-01-22 13:27:01,442 - src.assistant - INFO - Found 6 eligible courses
+2025-01-22 13:27:01,442 - src.assistant - INFO - Successfully ranked 5 courses using Cohere
+2025-01-22 13:28:11,771 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-01-22 13:28:11,774 - src.assistant - INFO - Found 4 eligible courses
+2025-01-22 13:28:11,775 - src.assistant - INFO - Successfully ranked 4 courses using Cohere
+2025-01-22 13:28:54,141 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/generate "HTTP/1.1 200 OK"
+2025-01-22 13:28:54,143 - src.assistant - INFO - Found 6 eligible courses
+2025-01-22 13:28:54,143 - src.assistant - INFO - Successfully ranked 5 courses using Cohere
