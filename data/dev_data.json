@@ -1,0 +1,2389 @@
+{
+  "courses": [
+    {
+      "courseId": "CRS001",
+      "courseName": "Course 1",
+      "department": "Business",
+      "credits": 4,
+      "prerequisites": [],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Williams",
+          "schedule": "Thu 11:00",
+          "capacity": 29,
+          "enrolled": 9
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Alex",
+          "schedule": "Tue 14:00",
+          "capacity": 32,
+          "enrolled": 10
+        }
+      ]
+    },
+    {
+      "courseId": "CRS002",
+      "courseName": "Course 2",
+      "department": "Business",
+      "credits": 6,
+      "prerequisites": [],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Brown",
+          "schedule": "Tue 14:00",
+          "capacity": 40,
+          "enrolled": 10
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Johnson",
+          "schedule": "Mon 9:00",
+          "capacity": 27,
+          "enrolled": 6
+        }
+      ]
+    },
+    {
+      "courseId": "CRS003",
+      "courseName": "Course 3",
+      "department": "Arts",
+      "credits": 4,
+      "prerequisites": [],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Williams",
+          "schedule": "Fri 12:00",
+          "capacity": 34,
+          "enrolled": 8
+        }
+      ]
+    },
+    {
+      "courseId": "CRS004",
+      "courseName": "Course 4",
+      "department": "Law",
+      "credits": 3,
+      "prerequisites": [],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Smith",
+          "schedule": "Thu 9:00",
+          "capacity": 37,
+          "enrolled": 15
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Davis",
+          "schedule": "Tue 16:00",
+          "capacity": 23,
+          "enrolled": 14
+        }
+      ]
+    },
+    {
+      "courseId": "CRS005",
+      "courseName": "Course 5",
+      "department": "Computer Science",
+      "credits": 6,
+      "prerequisites": [],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Davis",
+          "schedule": "Thu 15:00",
+          "capacity": 31,
+          "enrolled": 11
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Davis",
+          "schedule": "Fri 8:00",
+          "capacity": 29,
+          "enrolled": 14
+        }
+      ]
+    },
+    {
+      "courseId": "CRS006",
+      "courseName": "Course 6",
+      "department": "Business",
+      "credits": 4,
+      "prerequisites": [],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Alex",
+          "schedule": "Wed 15:00",
+          "capacity": 35,
+          "enrolled": 4
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Smith",
+          "schedule": "Mon 9:00",
+          "capacity": 29,
+          "enrolled": 14
+        },
+        {
+          "sectionId": "SEC03",
+          "instructor": "Professor Brown",
+          "schedule": "Tue 9:00",
+          "capacity": 30,
+          "enrolled": 1
+        }
+      ]
+    },
+    {
+      "courseId": "CRS007",
+      "courseName": "Course 7",
+      "department": "Arts",
+      "credits": 4,
+      "prerequisites": [],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Williams",
+          "schedule": "Thu 10:00",
+          "capacity": 35,
+          "enrolled": 4
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Johnson",
+          "schedule": "Fri 9:00",
+          "capacity": 22,
+          "enrolled": 1
+        },
+        {
+          "sectionId": "SEC03",
+          "instructor": "Professor Smith",
+          "schedule": "Tue 14:00",
+          "capacity": 22,
+          "enrolled": 3
+        }
+      ]
+    },
+    {
+      "courseId": "CRS008",
+      "courseName": "Course 8",
+      "department": "Business",
+      "credits": 4,
+      "prerequisites": [],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Alex",
+          "schedule": "Tue 16:00",
+          "capacity": 31,
+          "enrolled": 17
+        }
+      ]
+    },
+    {
+      "courseId": "CRS009",
+      "courseName": "Course 9",
+      "department": "Law",
+      "credits": 4,
+      "prerequisites": [],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Johnson",
+          "schedule": "Mon 9:00",
+          "capacity": 33,
+          "enrolled": 10
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Brown",
+          "schedule": "Tue 11:00",
+          "capacity": 36,
+          "enrolled": 18
+        }
+      ]
+    },
+    {
+      "courseId": "CRS010",
+      "courseName": "Course 10",
+      "department": "Arts",
+      "credits": 4,
+      "prerequisites": [],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Williams",
+          "schedule": "Fri 11:00",
+          "capacity": 40,
+          "enrolled": 3
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Brown",
+          "schedule": "Tue 16:00",
+          "capacity": 40,
+          "enrolled": 13
+        },
+        {
+          "sectionId": "SEC03",
+          "instructor": "Professor Alex",
+          "schedule": "Wed 9:00",
+          "capacity": 22,
+          "enrolled": 5
+        }
+      ]
+    },
+    {
+      "courseId": "CRS011",
+      "courseName": "Course 11",
+      "department": "Law",
+      "credits": 4,
+      "prerequisites": [
+        "CRS005",
+        "CRS009"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Johnson",
+          "schedule": "Wed 14:00",
+          "capacity": 28,
+          "enrolled": 12
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Alex",
+          "schedule": "Thu 11:00",
+          "capacity": 24,
+          "enrolled": 11
+        },
+        {
+          "sectionId": "SEC03",
+          "instructor": "Professor Johnson",
+          "schedule": "Thu 12:00",
+          "capacity": 24,
+          "enrolled": 1
+        }
+      ]
+    },
+    {
+      "courseId": "CRS012",
+      "courseName": "Course 12",
+      "department": "Engineering",
+      "credits": 6,
+      "prerequisites": [
+        "CRS002"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Johnson",
+          "schedule": "Thu 9:00",
+          "capacity": 34,
+          "enrolled": 16
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Williams",
+          "schedule": "Fri 16:00",
+          "capacity": 26,
+          "enrolled": 5
+        },
+        {
+          "sectionId": "SEC03",
+          "instructor": "Professor Brown",
+          "schedule": "Fri 14:00",
+          "capacity": 22,
+          "enrolled": 3
+        }
+      ]
+    },
+    {
+      "courseId": "CRS013",
+      "courseName": "Course 13",
+      "department": "Engineering",
+      "credits": 4,
+      "prerequisites": [
+        "CRS002"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Alex",
+          "schedule": "Fri 8:00",
+          "capacity": 25,
+          "enrolled": 17
+        }
+      ]
+    },
+    {
+      "courseId": "CRS014",
+      "courseName": "Course 14",
+      "department": "Arts",
+      "credits": 6,
+      "prerequisites": [
+        "CRS010",
+        "CRS001"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Brown",
+          "schedule": "Tue 13:00",
+          "capacity": 21,
+          "enrolled": 17
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Alex",
+          "schedule": "Tue 8:00",
+          "capacity": 31,
+          "enrolled": 6
+        }
+      ]
+    },
+    {
+      "courseId": "CRS015",
+      "courseName": "Course 15",
+      "department": "Law",
+      "credits": 6,
+      "prerequisites": [
+        "CRS007",
+        "CRS009"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Smith",
+          "schedule": "Tue 12:00",
+          "capacity": 29,
+          "enrolled": 15
+        }
+      ]
+    },
+    {
+      "courseId": "CRS016",
+      "courseName": "Course 16",
+      "department": "Economics",
+      "credits": 3,
+      "prerequisites": [
+        "CRS014"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Williams",
+          "schedule": "Fri 15:00",
+          "capacity": 31,
+          "enrolled": 11
+        }
+      ]
+    },
+    {
+      "courseId": "CRS017",
+      "courseName": "Course 17",
+      "department": "Economics",
+      "credits": 4,
+      "prerequisites": [
+        "CRS008",
+        "CRS014"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Davis",
+          "schedule": "Fri 12:00",
+          "capacity": 30,
+          "enrolled": 8
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Smith",
+          "schedule": "Thu 12:00",
+          "capacity": 34,
+          "enrolled": 7
+        }
+      ]
+    },
+    {
+      "courseId": "CRS018",
+      "courseName": "Course 18",
+      "department": "Engineering",
+      "credits": 3,
+      "prerequisites": [
+        "CRS012"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Johnson",
+          "schedule": "Wed 8:00",
+          "capacity": 24,
+          "enrolled": 19
+        }
+      ]
+    },
+    {
+      "courseId": "CRS019",
+      "courseName": "Course 19",
+      "department": "Arts",
+      "credits": 4,
+      "prerequisites": [
+        "CRS010"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Brown",
+          "schedule": "Tue 11:00",
+          "capacity": 29,
+          "enrolled": 12
+        }
+      ]
+    },
+    {
+      "courseId": "CRS020",
+      "courseName": "Course 20",
+      "department": "Law",
+      "credits": 3,
+      "prerequisites": [
+        "CRS001"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Smith",
+          "schedule": "Thu 15:00",
+          "capacity": 39,
+          "enrolled": 19
+        }
+      ]
+    },
+    {
+      "courseId": "CRS021",
+      "courseName": "Course 21",
+      "department": "Engineering",
+      "credits": 4,
+      "prerequisites": [
+        "CRS002",
+        "CRS012"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Brown",
+          "schedule": "Fri 11:00",
+          "capacity": 33,
+          "enrolled": 1
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Davis",
+          "schedule": "Thu 9:00",
+          "capacity": 32,
+          "enrolled": 0
+        },
+        {
+          "sectionId": "SEC03",
+          "instructor": "Professor Brown",
+          "schedule": "Fri 13:00",
+          "capacity": 25,
+          "enrolled": 16
+        }
+      ]
+    },
+    {
+      "courseId": "CRS022",
+      "courseName": "Course 22",
+      "department": "Arts",
+      "credits": 3,
+      "prerequisites": [
+        "CRS005"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Alex",
+          "schedule": "Fri 10:00",
+          "capacity": 30,
+          "enrolled": 3
+        }
+      ]
+    },
+    {
+      "courseId": "CRS023",
+      "courseName": "Course 23",
+      "department": "Business",
+      "credits": 3,
+      "prerequisites": [
+        "CRS017",
+        "CRS021"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Alex",
+          "schedule": "Fri 10:00",
+          "capacity": 35,
+          "enrolled": 12
+        }
+      ]
+    },
+    {
+      "courseId": "CRS024",
+      "courseName": "Course 24",
+      "department": "Medicine",
+      "credits": 3,
+      "prerequisites": [
+        "CRS020",
+        "CRS002"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Williams",
+          "schedule": "Mon 14:00",
+          "capacity": 39,
+          "enrolled": 14
+        }
+      ]
+    },
+    {
+      "courseId": "CRS025",
+      "courseName": "Course 25",
+      "department": "Computer Science",
+      "credits": 4,
+      "prerequisites": [
+        "CRS024"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Johnson",
+          "schedule": "Wed 10:00",
+          "capacity": 29,
+          "enrolled": 17
+        }
+      ]
+    },
+    {
+      "courseId": "CRS026",
+      "courseName": "Course 26",
+      "department": "Engineering",
+      "credits": 4,
+      "prerequisites": [
+        "CRS024"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Smith",
+          "schedule": "Tue 14:00",
+          "capacity": 23,
+          "enrolled": 16
+        }
+      ]
+    },
+    {
+      "courseId": "CRS027",
+      "courseName": "Course 27",
+      "department": "Computer Science",
+      "credits": 3,
+      "prerequisites": [
+        "CRS014"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Brown",
+          "schedule": "Thu 15:00",
+          "capacity": 25,
+          "enrolled": 17
+        }
+      ]
+    },
+    {
+      "courseId": "CRS028",
+      "courseName": "Course 28",
+      "department": "Economics",
+      "credits": 3,
+      "prerequisites": [
+        "CRS015",
+        "CRS008"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Brown",
+          "schedule": "Thu 13:00",
+          "capacity": 27,
+          "enrolled": 0
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Smith",
+          "schedule": "Mon 12:00",
+          "capacity": 23,
+          "enrolled": 8
+        }
+      ]
+    },
+    {
+      "courseId": "CRS029",
+      "courseName": "Course 29",
+      "department": "Medicine",
+      "credits": 6,
+      "prerequisites": [
+        "CRS014",
+        "CRS017"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Alex",
+          "schedule": "Wed 10:00",
+          "capacity": 32,
+          "enrolled": 0
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Smith",
+          "schedule": "Mon 11:00",
+          "capacity": 37,
+          "enrolled": 10
+        },
+        {
+          "sectionId": "SEC03",
+          "instructor": "Professor Alex",
+          "schedule": "Fri 13:00",
+          "capacity": 20,
+          "enrolled": 15
+        }
+      ]
+    },
+    {
+      "courseId": "CRS030",
+      "courseName": "Course 30",
+      "department": "Medicine",
+      "credits": 6,
+      "prerequisites": [
+        "CRS018",
+        "CRS009"
+      ],
+      "availableSections": [
+        {
+          "sectionId": "SEC01",
+          "instructor": "Professor Alex",
+          "schedule": "Thu 16:00",
+          "capacity": 25,
+          "enrolled": 7
+        },
+        {
+          "sectionId": "SEC02",
+          "instructor": "Professor Smith",
+          "schedule": "Thu 12:00",
+          "capacity": 24,
+          "enrolled": 14
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "studentId": "STU0001",
+      "name": "Student 1",
+      "major": "Computer Science",
+      "completedCourses": [
+        "CRS009",
+        "CRS010",
+        "CRS008",
+        "CRS007",
+        "CRS001",
+        "CRS006",
+        "CRS004",
+        "CRS005"
+      ],
+      "currentCourses": [
+        "CRS014"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0002",
+      "name": "Student 2",
+      "major": "Arts",
+      "completedCourses": [
+        "CRS010",
+        "CRS006",
+        "CRS009",
+        "CRS003",
+        "CRS007",
+        "CRS001",
+        "CRS005",
+        "CRS020",
+        "CRS019"
+      ],
+      "currentCourses": [
+        "CRS011"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0003",
+      "name": "Student 3",
+      "major": "Medicine",
+      "completedCourses": [
+        "CRS003",
+        "CRS010",
+        "CRS009",
+        "CRS004"
+      ],
+      "currentCourses": [
+        "CRS008",
+        "CRS005",
+        "CRS007"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0004",
+      "name": "Student 4",
+      "major": "Arts",
+      "completedCourses": [
+        "CRS002",
+        "CRS006",
+        "CRS007",
+        "CRS009",
+        "CRS008",
+        "CRS004",
+        "CRS001",
+        "CRS005",
+        "CRS011"
+      ],
+      "currentCourses": [
+        "CRS015"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0005",
+      "name": "Student 5",
+      "major": "Law",
+      "completedCourses": [
+        "CRS005",
+        "CRS006",
+        "CRS003",
+        "CRS008",
+        "CRS002",
+        "CRS010",
+        "CRS009",
+        "CRS001",
+        "CRS007"
+      ],
+      "currentCourses": [
+        "CRS011",
+        "CRS022",
+        "CRS004",
+        "CRS014"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0006",
+      "name": "Student 6",
+      "major": "Medicine",
+      "completedCourses": [
+        "CRS008",
+        "CRS007",
+        "CRS001",
+        "CRS002",
+        "CRS010",
+        "CRS005",
+        "CRS004"
+      ],
+      "currentCourses": [
+        "CRS006",
+        "CRS012"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0007",
+      "name": "Student 7",
+      "major": "Law",
+      "completedCourses": [
+        "CRS010",
+        "CRS002",
+        "CRS019"
+      ],
+      "currentCourses": [
+        "CRS008",
+        "CRS012",
+        "CRS005"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0008",
+      "name": "Student 8",
+      "major": "Engineering",
+      "completedCourses": [
+        "CRS002",
+        "CRS006",
+        "CRS005",
+        "CRS004",
+        "CRS009",
+        "CRS007",
+        "CRS010",
+        "CRS015",
+        "CRS019"
+      ],
+      "currentCourses": [
+        "CRS022",
+        "CRS003",
+        "CRS008",
+        "CRS013"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0009",
+      "name": "Student 9",
+      "major": "Business",
+      "completedCourses": [
+        "CRS006",
+        "CRS009"
+      ],
+      "currentCourses": [
+        "CRS003",
+        "CRS007"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0010",
+      "name": "Student 10",
+      "major": "Business",
+      "completedCourses": [
+        "CRS004",
+        "CRS007",
+        "CRS006",
+        "CRS009",
+        "CRS002",
+        "CRS005",
+        "CRS013"
+      ],
+      "currentCourses": [
+        "CRS001",
+        "CRS010"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0011",
+      "name": "Student 11",
+      "major": "Medicine",
+      "completedCourses": [
+        "CRS004",
+        "CRS001",
+        "CRS007",
+        "CRS005",
+        "CRS009",
+        "CRS003"
+      ],
+      "currentCourses": [
+        "CRS002",
+        "CRS011",
+        "CRS006",
+        "CRS020"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0012",
+      "name": "Student 12",
+      "major": "Law",
+      "completedCourses": [
+        "CRS002",
+        "CRS003",
+        "CRS007",
+        "CRS005",
+        "CRS009",
+        "CRS013"
+      ],
+      "currentCourses": [
+        "CRS010",
+        "CRS006",
+        "CRS022"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0013",
+      "name": "Student 13",
+      "major": "Economics",
+      "completedCourses": [
+        "CRS010",
+        "CRS006",
+        "CRS003",
+        "CRS005",
+        "CRS007",
+        "CRS002",
+        "CRS009",
+        "CRS012",
+        "CRS019",
+        "CRS011"
+      ],
+      "currentCourses": [
+        "CRS022",
+        "CRS013",
+        "CRS008"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0014",
+      "name": "Student 14",
+      "major": "Medicine",
+      "completedCourses": [
+        "CRS007",
+        "CRS010",
+        "CRS003",
+        "CRS006",
+        "CRS009",
+        "CRS008",
+        "CRS001",
+        "CRS014",
+        "CRS019",
+        "CRS020"
+      ],
+      "currentCourses": [
+        "CRS017",
+        "CRS004"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0015",
+      "name": "Student 15",
+      "major": "Arts",
+      "completedCourses": [
+        "CRS008",
+        "CRS002",
+        "CRS007",
+        "CRS004",
+        "CRS010",
+        "CRS005",
+        "CRS006",
+        "CRS019"
+      ],
+      "currentCourses": [
+        "CRS012",
+        "CRS003",
+        "CRS009",
+        "CRS001"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0016",
+      "name": "Student 16",
+      "major": "Law",
+      "completedCourses": [
+        "CRS010",
+        "CRS009",
+        "CRS003",
+        "CRS004",
+        "CRS002",
+        "CRS007",
+        "CRS001",
+        "CRS006",
+        "CRS008",
+        "CRS005"
+      ],
+      "currentCourses": [
+        "CRS012",
+        "CRS013",
+        "CRS014"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0017",
+      "name": "Student 17",
+      "major": "Business",
+      "completedCourses": [
+        "CRS003"
+      ],
+      "currentCourses": [
+        "CRS009",
+        "CRS008"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0018",
+      "name": "Student 18",
+      "major": "Economics",
+      "completedCourses": [
+        "CRS008",
+        "CRS007",
+        "CRS003",
+        "CRS001",
+        "CRS002",
+        "CRS004",
+        "CRS009",
+        "CRS006",
+        "CRS020",
+        "CRS015",
+        "CRS012"
+      ],
+      "currentCourses": [
+        "CRS005",
+        "CRS021"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0019",
+      "name": "Student 19",
+      "major": "Medicine",
+      "completedCourses": [
+        "CRS006",
+        "CRS010"
+      ],
+      "currentCourses": [
+        "CRS001",
+        "CRS009",
+        "CRS007",
+        "CRS005"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0020",
+      "name": "Student 20",
+      "major": "Medicine",
+      "completedCourses": [
+        "CRS009",
+        "CRS008",
+        "CRS002",
+        "CRS001",
+        "CRS004",
+        "CRS007",
+        "CRS010",
+        "CRS005",
+        "CRS013",
+        "CRS020"
+      ],
+      "currentCourses": [
+        "CRS015",
+        "CRS014",
+        "CRS012",
+        "CRS019"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0021",
+      "name": "Student 21",
+      "major": "Computer Science",
+      "completedCourses": [
+        "CRS009",
+        "CRS003",
+        "CRS005",
+        "CRS022"
+      ],
+      "currentCourses": [
+        "CRS002",
+        "CRS001"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0022",
+      "name": "Student 22",
+      "major": "Economics",
+      "completedCourses": [
+        "CRS008",
+        "CRS006",
+        "CRS001",
+        "CRS003",
+        "CRS004",
+        "CRS009",
+        "CRS005",
+        "CRS010",
+        "CRS007",
+        "CRS002",
+        "CRS015",
+        "CRS019"
+      ],
+      "currentCourses": [
+        "CRS013",
+        "CRS020"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0023",
+      "name": "Student 23",
+      "major": "Arts",
+      "completedCourses": [
+        "CRS005",
+        "CRS004",
+        "CRS010",
+        "CRS019",
+        "CRS022"
+      ],
+      "currentCourses": [
+        "CRS008",
+        "CRS001",
+        "CRS006",
+        "CRS009"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0024",
+      "name": "Student 24",
+      "major": "Computer Science",
+      "completedCourses": [
+        "CRS005"
+      ],
+      "currentCourses": [
+        "CRS001",
+        "CRS022",
+        "CRS004"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0025",
+      "name": "Student 25",
+      "major": "Arts",
+      "completedCourses": [
+        "CRS005",
+        "CRS010",
+        "CRS002",
+        "CRS004",
+        "CRS008",
+        "CRS006",
+        "CRS001",
+        "CRS003",
+        "CRS007",
+        "CRS009",
+        "CRS020",
+        "CRS011"
+      ],
+      "currentCourses": [
+        "CRS015"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0026",
+      "name": "Student 26",
+      "major": "Engineering",
+      "completedCourses": [
+        "CRS002",
+        "CRS010",
+        "CRS001",
+        "CRS005",
+        "CRS003",
+        "CRS008",
+        "CRS007",
+        "CRS004",
+        "CRS012",
+        "CRS022",
+        "CRS014"
+      ],
+      "currentCourses": [
+        "CRS020"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0027",
+      "name": "Student 27",
+      "major": "Computer Science",
+      "completedCourses": [
+        "CRS010",
+        "CRS003",
+        "CRS007"
+      ],
+      "currentCourses": [
+        "CRS009"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0028",
+      "name": "Student 28",
+      "major": "Engineering",
+      "completedCourses": [
+        "CRS009",
+        "CRS010"
+      ],
+      "currentCourses": [
+        "CRS008",
+        "CRS019",
+        "CRS004",
+        "CRS003"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0029",
+      "name": "Student 29",
+      "major": "Arts",
+      "completedCourses": [
+        "CRS009",
+        "CRS003",
+        "CRS004",
+        "CRS001",
+        "CRS007",
+        "CRS002",
+        "CRS008",
+        "CRS006",
+        "CRS010",
+        "CRS014",
+        "CRS012"
+      ],
+      "currentCourses": [
+        "CRS027",
+        "CRS017",
+        "CRS005"
+      ],
+      "academic_standing": "Good Standing"
+    },
+    {
+      "studentId": "STU0030",
+      "name": "Student 30",
+      "major": "Medicine",
+      "completedCourses": [
+        "CRS005",
+        "CRS006",
+        "CRS010",
+        "CRS003",
+        "CRS004",
+        "CRS009",
+        "CRS002",
+        "CRS007",
+        "CRS008",
+        "CRS012",
+        "CRS022",
+        "CRS013"
+      ],
+      "currentCourses": [
+        "CRS021",
+        "CRS015",
+        "CRS011"
+      ],
+      "academic_standing": "Good Standing"
+    }
+  ],
+  "calendar": {
+    "academicYear": "2024-2025",
+    "terms": [
+      {
+        "termName": "SUMMER",
+        "termYear": "2024",
+        "events": [
+          {
+            "date": "2024-05-01",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "12_WEEK",
+                "refundPercentage": 50
+              },
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for SECOND_5_WEEK",
+                "session": "SECOND_5_WEEK"
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Spring Break",
+                "session": "10_WEEK",
+                "officesClosed": false
+              }
+            ]
+          },
+          {
+            "date": "2024-05-02",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for FIRST_5_WEEK",
+                "session": "FIRST_5_WEEK"
+              },
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for 12_WEEK",
+                "session": "12_WEEK"
+              },
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "10_WEEK",
+                "refundPercentage": 100
+              }
+            ]
+          },
+          {
+            "date": "2024-05-03",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "DEADLINE",
+                "description": "Important Academic Deadline",
+                "session": "SECOND_5_WEEK"
+              },
+              {
+                "eventType": "CLASS_START",
+                "description": "Classes Begin for 10_WEEK",
+                "session": "10_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-06",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "12_WEEK"
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Memorial Day",
+                "session": "FIRST_6_WEEK",
+                "officesClosed": false
+              },
+              {
+                "eventType": "CLASS_START",
+                "description": "Classes Begin for SECOND_5_WEEK",
+                "session": "SECOND_5_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-07",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "FIRST_5_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-08",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "CLASS_START",
+                "description": "Classes Begin for SECOND_5_WEEK",
+                "session": "SECOND_5_WEEK"
+              },
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for 10_WEEK",
+                "session": "10_WEEK"
+              },
+              {
+                "eventType": "EXAM",
+                "description": "Final Exams for FULL_TERM",
+                "session": "FULL_TERM"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-09",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for SECOND_6_WEEK",
+                "session": "SECOND_6_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-10",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "HOLIDAY",
+                "description": "Labor Day",
+                "session": "SECOND_5_WEEK",
+                "officesClosed": true
+              }
+            ]
+          },
+          {
+            "date": "2024-05-13",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "FULL_TERM"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-14",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "CLASS_END",
+                "description": "Classes End for SECOND_6_WEEK",
+                "session": "SECOND_6_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-15",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "CLASS_START",
+                "description": "Classes Begin for SECOND_6_WEEK",
+                "session": "SECOND_6_WEEK"
+              },
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "SECOND_5_WEEK"
+              },
+              {
+                "eventType": "EXAM",
+                "description": "Final Exams for 12_WEEK",
+                "session": "12_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-16",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "CLASS_END",
+                "description": "Classes End for SECOND_5_WEEK",
+                "session": "SECOND_5_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-17",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "SECOND_6_WEEK"
+              },
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for FIRST_6_WEEK",
+                "session": "FIRST_6_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-20",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "10_WEEK"
+              },
+              {
+                "eventType": "EXAM",
+                "description": "Final Exams for SECOND_6_WEEK",
+                "session": "SECOND_6_WEEK"
+              },
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "SECOND_6_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-21",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for SECOND_6_WEEK",
+                "session": "SECOND_6_WEEK"
+              },
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "FIRST_5_WEEK"
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Thanksgiving Break",
+                "session": "FIRST_5_WEEK",
+                "officesClosed": true
+              }
+            ]
+          },
+          {
+            "date": "2024-05-22",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "FIRST_6_WEEK"
+              },
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "FIRST_5_WEEK"
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Memorial Day",
+                "session": "12_WEEK",
+                "officesClosed": true
+              }
+            ]
+          },
+          {
+            "date": "2024-05-23",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "FULL_TERM"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-24",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "FULL_TERM"
+              },
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "FIRST_6_WEEK",
+                "refundPercentage": 0
+              },
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "SECOND_5_WEEK",
+                "refundPercentage": 80
+              }
+            ]
+          },
+          {
+            "date": "2024-05-27",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "EXAM",
+                "description": "Final Exams for FIRST_5_WEEK",
+                "session": "FIRST_5_WEEK"
+              },
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for 10_WEEK",
+                "session": "10_WEEK"
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Spring Break",
+                "session": "SECOND_5_WEEK",
+                "officesClosed": false
+              }
+            ]
+          },
+          {
+            "date": "2024-05-28",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "CLASS_START",
+                "description": "Classes Begin for FULL_TERM",
+                "session": "FULL_TERM"
+              },
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "FIRST_5_WEEK"
+              },
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "SECOND_6_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-29",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "SECOND_6_WEEK"
+              },
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "FULL_TERM"
+              }
+            ]
+          },
+          {
+            "date": "2024-05-30",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "SECOND_6_WEEK",
+                "refundPercentage": 80
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "termName": "FALL",
+        "termYear": "2024",
+        "events": [
+          {
+            "date": "2024-08-01",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "10_WEEK"
+              },
+              {
+                "eventType": "EXAM",
+                "description": "Final Exams for FULL_TERM",
+                "session": "FULL_TERM"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-02",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "12_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-05",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "SECOND_5_WEEK",
+                "refundPercentage": 90
+              },
+              {
+                "eventType": "CLASS_END",
+                "description": "Classes End for 10_WEEK",
+                "session": "10_WEEK"
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Labor Day",
+                "session": "10_WEEK",
+                "officesClosed": false
+              }
+            ]
+          },
+          {
+            "date": "2024-08-06",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for SECOND_6_WEEK",
+                "session": "SECOND_6_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-07",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "SECOND_5_WEEK"
+              },
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "FIRST_5_WEEK"
+              },
+              {
+                "eventType": "DEADLINE",
+                "description": "Important Academic Deadline",
+                "session": "FULL_TERM"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-08",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "10_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-09",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "FULL_TERM"
+              },
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "12_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-12",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for 12_WEEK",
+                "session": "12_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-13",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "EXAM",
+                "description": "Final Exams for SECOND_6_WEEK",
+                "session": "SECOND_6_WEEK"
+              },
+              {
+                "eventType": "EXAM",
+                "description": "Final Exams for 12_WEEK",
+                "session": "12_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-14",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "HOLIDAY",
+                "description": "Labor Day",
+                "session": "10_WEEK",
+                "officesClosed": false
+              }
+            ]
+          },
+          {
+            "date": "2024-08-15",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "CLASS_END",
+                "description": "Classes End for FULL_TERM",
+                "session": "FULL_TERM"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-16",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "SECOND_5_WEEK"
+              },
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "FIRST_5_WEEK"
+              },
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "FIRST_5_WEEK",
+                "refundPercentage": 80
+              }
+            ]
+          },
+          {
+            "date": "2024-08-19",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "CLASS_START",
+                "description": "Classes Begin for 10_WEEK",
+                "session": "10_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-20",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "SECOND_5_WEEK",
+                "refundPercentage": 80
+              },
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "SECOND_6_WEEK",
+                "refundPercentage": 25
+              }
+            ]
+          },
+          {
+            "date": "2024-08-21",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "HOLIDAY",
+                "description": "Labor Day",
+                "session": "FULL_TERM",
+                "officesClosed": false
+              }
+            ]
+          },
+          {
+            "date": "2024-08-22",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "EXAM",
+                "description": "Final Exams for SECOND_6_WEEK",
+                "session": "SECOND_6_WEEK"
+              },
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "10_WEEK"
+              },
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for SECOND_6_WEEK",
+                "session": "SECOND_6_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-23",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "FIRST_6_WEEK"
+              },
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "SECOND_6_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-26",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for 10_WEEK",
+                "session": "10_WEEK"
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Spring Break",
+                "session": "10_WEEK",
+                "officesClosed": false
+              },
+              {
+                "eventType": "CLASS_START",
+                "description": "Classes Begin for 10_WEEK",
+                "session": "10_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-27",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "SECOND_6_WEEK"
+              },
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for 12_WEEK",
+                "session": "12_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-28",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for FIRST_5_WEEK",
+                "session": "FIRST_5_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-29",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "HOLIDAY",
+                "description": "Memorial Day",
+                "session": "SECOND_6_WEEK",
+                "officesClosed": false
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Thanksgiving Break",
+                "session": "FULL_TERM",
+                "officesClosed": false
+              },
+              {
+                "eventType": "CLASS_START",
+                "description": "Classes Begin for FULL_TERM",
+                "session": "FULL_TERM"
+              }
+            ]
+          },
+          {
+            "date": "2024-08-30",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "10_WEEK",
+                "refundPercentage": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "termName": "SPRING",
+        "termYear": "2025",
+        "events": [
+          {
+            "date": "2025-01-01",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for SECOND_5_WEEK",
+                "session": "SECOND_5_WEEK"
+              },
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for SECOND_5_WEEK",
+                "session": "SECOND_5_WEEK"
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Thanksgiving Break",
+                "session": "SECOND_5_WEEK",
+                "officesClosed": true
+              }
+            ]
+          },
+          {
+            "date": "2025-01-02",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "CLASS_END",
+                "description": "Classes End for 10_WEEK",
+                "session": "10_WEEK"
+              },
+              {
+                "eventType": "CLASS_START",
+                "description": "Classes Begin for FIRST_5_WEEK",
+                "session": "FIRST_5_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-03",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "DEADLINE",
+                "description": "Important Academic Deadline",
+                "session": "12_WEEK"
+              },
+              {
+                "eventType": "CLASS_END",
+                "description": "Classes End for 12_WEEK",
+                "session": "12_WEEK"
+              },
+              {
+                "eventType": "EXAM",
+                "description": "Final Exams for 10_WEEK",
+                "session": "10_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-06",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for 10_WEEK",
+                "session": "10_WEEK"
+              },
+              {
+                "eventType": "CLASS_START",
+                "description": "Classes Begin for 10_WEEK",
+                "session": "10_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-07",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "CLASS_START",
+                "description": "Classes Begin for SECOND_6_WEEK",
+                "session": "SECOND_6_WEEK"
+              },
+              {
+                "eventType": "EXAM",
+                "description": "Final Exams for 10_WEEK",
+                "session": "10_WEEK"
+              },
+              {
+                "eventType": "DEADLINE",
+                "description": "Important Academic Deadline",
+                "session": "10_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-08",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "12_WEEK"
+              },
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "FULL_TERM"
+              },
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for SECOND_5_WEEK",
+                "session": "SECOND_5_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-09",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "CLASS_END",
+                "description": "Classes End for SECOND_5_WEEK",
+                "session": "SECOND_5_WEEK"
+              },
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "SECOND_6_WEEK"
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Labor Day",
+                "session": "12_WEEK",
+                "officesClosed": true
+              }
+            ]
+          },
+          {
+            "date": "2025-01-10",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "CLASS_END",
+                "description": "Classes End for SECOND_5_WEEK",
+                "session": "SECOND_5_WEEK"
+              },
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for FIRST_5_WEEK",
+                "session": "FIRST_5_WEEK"
+              },
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "FIRST_5_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-13",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "SECOND_5_WEEK"
+              },
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "FIRST_5_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-14",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "CLASS_END",
+                "description": "Classes End for 12_WEEK",
+                "session": "12_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-15",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "SECOND_5_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-16",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "CLASS_END",
+                "description": "Classes End for 12_WEEK",
+                "session": "12_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-17",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "HOLIDAY",
+                "description": "Memorial Day",
+                "session": "SECOND_5_WEEK",
+                "officesClosed": true
+              },
+              {
+                "eventType": "DEADLINE",
+                "description": "Important Academic Deadline",
+                "session": "10_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-20",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "FIRST_5_WEEK",
+                "refundPercentage": 90
+              },
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "FULL_TERM"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-21",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "GRADES",
+                "description": "Grade Submission Deadline",
+                "session": "FIRST_6_WEEK"
+              },
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "10_WEEK",
+                "refundPercentage": 80
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Memorial Day",
+                "session": "SECOND_6_WEEK",
+                "officesClosed": true
+              }
+            ]
+          },
+          {
+            "date": "2025-01-22",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "FIRST_6_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-23",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "SECOND_6_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-24",
+            "dayOfWeek": "Friday",
+            "events": [
+              {
+                "eventType": "ADMINISTRATIVE",
+                "description": "Administrative Processing Day",
+                "session": "FIRST_5_WEEK"
+              }
+            ]
+          },
+          {
+            "date": "2025-01-27",
+            "dayOfWeek": "Monday",
+            "events": [
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "SECOND_6_WEEK",
+                "refundPercentage": 100
+              }
+            ]
+          },
+          {
+            "date": "2025-01-28",
+            "dayOfWeek": "Tuesday",
+            "events": [
+              {
+                "eventType": "DROP_ADD",
+                "description": "Drop/Add Period for FIRST_6_WEEK",
+                "session": "FIRST_6_WEEK"
+              },
+              {
+                "eventType": "WITHDRAWAL",
+                "description": "Withdrawal Period - See refund percentage",
+                "session": "FULL_TERM",
+                "refundPercentage": 50
+              }
+            ]
+          },
+          {
+            "date": "2025-01-29",
+            "dayOfWeek": "Wednesday",
+            "events": [
+              {
+                "eventType": "REGISTRATION",
+                "description": "Course Registration Period",
+                "session": "FIRST_5_WEEK"
+              },
+              {
+                "eventType": "HOLIDAY",
+                "description": "Thanksgiving Break",
+                "session": "FULL_TERM",
+                "officesClosed": false
+              }
+            ]
+          },
+          {
+            "date": "2025-01-30",
+            "dayOfWeek": "Thursday",
+            "events": [
+              {
+                "eventType": "DEADLINE",
+                "description": "Important Academic Deadline",
+                "session": "SECOND_5_WEEK"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
